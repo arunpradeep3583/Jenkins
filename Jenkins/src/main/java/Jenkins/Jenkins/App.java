@@ -10,5 +10,7 @@ public class App
     {
         System.out.println( "Hello World!" );
         // removed sysout
+        
+        System.out.println("welcome");
     }
 }
